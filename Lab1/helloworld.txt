@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Brijesh Kuvadiya</title>
+</head>
+<body>
+
+<h1>Hello, Brijesh</h1>
+<p>Welcome to Blockchain Development Course :)</p>
+
+</body>
+</html>
